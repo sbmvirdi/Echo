@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/ae57667c15de7f373ffcecc275b98a57/AndroidManifest.xml:2:1-11:12
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/3b3572bfa00c7e22987bca51c2f86473/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/398f8b55fd2d2cf645f64ed4c45aa53f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/6f640e74cbe48c6ba3fbcc874c6b8bac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/1916dfdfe20edc0fb3e90b4a94aea1cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/4682b03e9b5a062fc345ad38e7bc5e12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/5426f9228ecd267f0b3755361e622921/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/ada7b80e42c2def3e19efdc1efcc2379/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/55846c3e740f9b57e7fdcce91f8ba705/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/902ba3e64be597b5b36b2210219f37ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/13b5884bb06f5dec2fd46db764f865a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/7599ff29a51586c90f0e4ef1279dd08c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/3f64c64869af471e4a769fea59d0b72a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/a585c6cfb97a45503a0553eefc4f03b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/202f3505632a398e528343fca8bcc6d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/4fd4af2daa685633281c7fa78225792c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/a69b4702abe49aba3ccef0d21605ba6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/72840595f94c3f46dc107500a8b4a727/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e6eebefee7d2cb4ecb7217eb10bd3d7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/eeac517483fa3b5cac7211128b6dc914/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e42589d213057501b8bca351b0d20442/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f81ac5dffe49fa618dcc6305c53a78cd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f906cb4e11f3257f11ceb3ee888b2c7c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/7ce30e0c937b19e07051119bedc0c4c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/cb9ad90ad7de0def0436eff8b93add15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/5b49cb1aac92e48e6b3e568820d30e70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/30ae59c0ed97b8c647236791292037eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f12888c243683d12bf73100e0338a77c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/29be92966d0e0d33f7e509376577b107/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/00aac493af5147a737cc00d1b94ee788/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/19deb2de926f98aef5420b0a8ebefcb2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e6051cc78f23a300171814c82da8e808/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:7:9-32
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/ae57667c15de7f373ffcecc275b98a57/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/ae57667c15de7f373ffcecc275b98a57/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/398f8b55fd2d2cf645f64ed4c45aa53f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/398f8b55fd2d2cf645f64ed4c45aa53f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e42589d213057501b8bca351b0d20442/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e42589d213057501b8bca351b0d20442/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f81ac5dffe49fa618dcc6305c53a78cd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f81ac5dffe49fa618dcc6305c53a78cd/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e42589d213057501b8bca351b0d20442/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:19:9-48
+	android:icon
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:21:9-40
+activity#internshala.com.echomusik.activties.SplashActivty
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:screenOrientation
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:23:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:30:27-74
+activity#internshala.com.echomusik.activties.MainActivity
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:33:9-36:59
+	android:screenOrientation
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:34:13-51
+receiver#internshala.com.echomusik.utils.CaptureBroadcast
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:38:9-43:20
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:38:19-57
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL+action:name:android.intent.action.PHONE_STATE
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.PHONE_STATE
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:40:25-73
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml:41:25-79
+uses-sdk
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/ae57667c15de7f373ffcecc275b98a57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/ae57667c15de7f373ffcecc275b98a57/AndroidManifest.xml:5:5-7:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/3b3572bfa00c7e22987bca51c2f86473/AndroidManifest.xml:8:5-10:41
+MERGED from [com.cleveroad:audiovisualization:1.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/3b3572bfa00c7e22987bca51c2f86473/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/398f8b55fd2d2cf645f64ed4c45aa53f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/398f8b55fd2d2cf645f64ed4c45aa53f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/6f640e74cbe48c6ba3fbcc874c6b8bac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/6f640e74cbe48c6ba3fbcc874c6b8bac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/1916dfdfe20edc0fb3e90b4a94aea1cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/1916dfdfe20edc0fb3e90b4a94aea1cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/4682b03e9b5a062fc345ad38e7bc5e12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/4682b03e9b5a062fc345ad38e7bc5e12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/5426f9228ecd267f0b3755361e622921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/5426f9228ecd267f0b3755361e622921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/ada7b80e42c2def3e19efdc1efcc2379/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/ada7b80e42c2def3e19efdc1efcc2379/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/55846c3e740f9b57e7fdcce91f8ba705/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/55846c3e740f9b57e7fdcce91f8ba705/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/902ba3e64be597b5b36b2210219f37ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/902ba3e64be597b5b36b2210219f37ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/13b5884bb06f5dec2fd46db764f865a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/13b5884bb06f5dec2fd46db764f865a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/7599ff29a51586c90f0e4ef1279dd08c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/7599ff29a51586c90f0e4ef1279dd08c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/3f64c64869af471e4a769fea59d0b72a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/3f64c64869af471e4a769fea59d0b72a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/a585c6cfb97a45503a0553eefc4f03b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/a585c6cfb97a45503a0553eefc4f03b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/202f3505632a398e528343fca8bcc6d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/202f3505632a398e528343fca8bcc6d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/4fd4af2daa685633281c7fa78225792c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/4fd4af2daa685633281c7fa78225792c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/a69b4702abe49aba3ccef0d21605ba6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/a69b4702abe49aba3ccef0d21605ba6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/72840595f94c3f46dc107500a8b4a727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/72840595f94c3f46dc107500a8b4a727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e6eebefee7d2cb4ecb7217eb10bd3d7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e6eebefee7d2cb4ecb7217eb10bd3d7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/eeac517483fa3b5cac7211128b6dc914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/eeac517483fa3b5cac7211128b6dc914/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e42589d213057501b8bca351b0d20442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e42589d213057501b8bca351b0d20442/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f81ac5dffe49fa618dcc6305c53a78cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f81ac5dffe49fa618dcc6305c53a78cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f906cb4e11f3257f11ceb3ee888b2c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f906cb4e11f3257f11ceb3ee888b2c7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/7ce30e0c937b19e07051119bedc0c4c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/7ce30e0c937b19e07051119bedc0c4c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/cb9ad90ad7de0def0436eff8b93add15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/cb9ad90ad7de0def0436eff8b93add15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/5b49cb1aac92e48e6b3e568820d30e70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/5b49cb1aac92e48e6b3e568820d30e70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/30ae59c0ed97b8c647236791292037eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/30ae59c0ed97b8c647236791292037eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f12888c243683d12bf73100e0338a77c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/f12888c243683d12bf73100e0338a77c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/29be92966d0e0d33f7e509376577b107/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/29be92966d0e0d33f7e509376577b107/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/00aac493af5147a737cc00d1b94ee788/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/00aac493af5147a737cc00d1b94ee788/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/19deb2de926f98aef5420b0a8ebefcb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/19deb2de926f98aef5420b0a8ebefcb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e6051cc78f23a300171814c82da8e808/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sbmvirdi/.gradle/caches/transforms-2/files-2.1/e6051cc78f23a300171814c82da8e808/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sbmvirdi/Downloads/Echo/app/src/main/AndroidManifest.xml

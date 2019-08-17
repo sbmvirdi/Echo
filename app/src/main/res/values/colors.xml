@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00032a</color>
+    <color name="colorPrimaryDark">#00042a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="first">#270d36</color>
+    <color name="second">#4e1741</color>
+    <color name="third">#74204d</color>
+    <color name="fourth">#9d2a58</color>
+    <color name="second1">#009933</color>
+    <color name="third1">#006622</color>
+    <color name="fourth1">#003311</color>
+    <color name="lowerpart">#00A788</color>
+    <color name="first1">#00CC08</color>
+    <array name="rainbow">
+        <item>@color/first1</item>
+        <item>@color/second1</item>
+        <item>@color/third1</item>
+        <item>@color/fourth1</item>
+    </array>
+</resources>
